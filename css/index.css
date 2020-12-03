@@ -117,13 +117,12 @@ section{
 
 #block{
     position: absolute;
-    background: url("../img/2.png") repeat;
+    background: linear-gradient(-90deg, rgba(0,0,0,1), rgba(0,0,0,0));
     filter: brightness(0.2);
-    width: 1750px;
+    width: 60vw;
     height: 1750px;
-    right: -1420px;
+    right: 0px;
     top: -420px;
-    border-radius: 50%;
 }
 
 #roulette{
